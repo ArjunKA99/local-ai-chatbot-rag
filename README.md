@@ -1,2 +1,2 @@
-# local-ai-chatbot-rag
+# 🤖 Local AI Chatbot with Retrieval-Augmented Generation (RAG)
 A local AI chatbot built with Python, Streamlit, Ollama, and FAISS featuring Retrieval-Augmented Generation (RAG), semantic search, conversation memory, and streaming responses.

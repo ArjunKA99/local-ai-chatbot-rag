@@ -288,19 +288,19 @@ This enables longer conversations without exceeding the model's context window.
 
 ## Chat Interface
 
-![Chat Interface](Screenshots/chatbot-home.png)
+![Chat Interface](Screenshots/ChatbotHome.PNG)
 
 ## Streaming Response
 
-![Streaming Response](Screenshots/streaming-response.png)
+![Streaming Response](Screenshots/Streaming%20Response.PNG)
 
 ## Debug Sidebar
 
-![Debug Sidebar](Screenshots/debug-sidebar.png)
+![Debug Sidebar](Screenshots/DebugSidebar.PNG)
 
 ## RAG Response
 
-![RAG Response](Screenshots/rag-response.png)
+![RAG Response](Screenshots/RagResponse.PNG)
 
 # 📈 Future Improvements
 

@@ -291,10 +291,11 @@ This enables longer conversations without exceeding the model's context window.
 
 ## Chat Interface
 
-> Add screenshot here
+
 
 ```
-screenshots/chatbot_home.png
+<img width="1913" height="926" alt="image" src="https://github.com/user-attachments/assets/53768c4e-f45f-42e1-9e38-a86bcc99ba2b" />
+
 ```
 
 ---

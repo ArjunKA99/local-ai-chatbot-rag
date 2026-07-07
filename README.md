@@ -290,7 +290,7 @@ This enables longer conversations without exceeding the model's context window.
 
 
 ```
-screenshots/ChatbotHome.png
+Screenshots/ChatbotHome.png
 ```
 
 ---
@@ -299,7 +299,7 @@ screenshots/ChatbotHome.png
 
 
 ```
-screenshots/Streaming Response.png
+Screenshots/Streaming Response.png
 ```
 
 ---
@@ -308,7 +308,7 @@ screenshots/Streaming Response.png
 
 
 ```
-screenshots/DebugSidebar.png
+Screenshots/DebugSidebar.png
 ```
 
 ---
@@ -317,7 +317,7 @@ screenshots/DebugSidebar.png
 
 
 ```
-screenshots/RagResponse.png
+Screenshots/RagResponse.png
 ```
 
 ---

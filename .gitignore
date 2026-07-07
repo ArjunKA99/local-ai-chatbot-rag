@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Generated Vector Database
+vector_db/
+
+# Visual Studio
+.vs/
+
+# Windows System File
+Thumbs.db

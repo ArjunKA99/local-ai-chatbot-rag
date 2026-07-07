@@ -353,9 +353,9 @@ pip install -r requirements.txt
 
 **Arjun K A**
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/ArjunKA99
 
-LinkedIn: https://linkedin.com/in/<your-linkedin>
+LinkedIn: https://linkedin.com/in/arjun-ka
 
 ---
 
